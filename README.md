@@ -1,6 +1,8 @@
 # Citron - Nintendo Homebrew Emulator 🍋
 
-[![Discord](https://img.shields.io/discord/1325735818714943498?color=5865F2&label=Citron&logo=discord&logoColor=white)](https://discord.gg/citron)
+[![Discord](https://img.shields.io/discord/1325735818714943498?color=5865F2&label=Citron&logo=discord&logoColor=white)](https://discord.gg/citron)    (this link is used by a scammer)
+
+[![New Discord](https://img.shields.io/discord/1325735818714943498?color=5865F2&label=Citron&logo=discord&logoColor=white)](https://discord.com/invite/yTC377Jw)
 &nbsp;&nbsp;
 [![Android Build](https://github.com/Zephyron-Dev/Citron-CI/actions/workflows/build-android.yml/badge.svg)](https://github.com/Zephyron-Dev/Citron-CI/actions/workflows/build-android.yml)
 &nbsp;&nbsp;
