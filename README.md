@@ -39,7 +39,7 @@ Ready to experience Citron? [Download the latest version](https://git.citron-emu
 
 Citron is an open-source project. You can find the source code on our official Git repository:
 
-- [Citron Source Code](https://git.citron-emu.org/)
+- [Citron Source Code](https://git.citron-emu.org/)  (untrustworthy, use the source code provided in the "main" branch)
 
 We welcome contributions! Check out the repository and feel free to submit issues or pull requests to help improve Citron.
 
@@ -61,8 +61,8 @@ We are always looking for developers, testers, and enthusiasts to contribute to 
 
 For any inquiries or to follow Citron's development journey, reach out to us:
 
-- **Official Website**: [https://citron-emu.org](https://citron-emu.org)
-- **Source Code**: [https://git.citron-emu.org](https://git.citron-emu.org)
+- **Official Website**: [https://citron-emu.org](https://citron-emu.org)    (untrustworty)
+- **Source Code**: [https://git.citron-emu.org](https://git.citron-emu.org)    (untrustworthy, use the source code provided in the "main" branch)
 - **Twitter**: [@CitronEmu](https://twitter.com/CitronEmu)
 
-Made with 💚 by **Zephyron** | [Source Code](https://git.citron-emu.org)
+Made with 💚 by **Zephyron** | [Source Code](https://git.citron-emu.org)    (untrustworthy, use the source code provided in the "main" branch)
